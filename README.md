@@ -1,17 +1,15 @@
-### Hi there 👋
+## About me
 My name Andrey Boronnikov. I'm from Russia, work in My.Games and create games on Unity.
 
-<!--
-**Red-Cat-Fat/red-cat-fat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since childhood, I dreamed of making games. 
+I think the most important thing is the opportunity to share knowledge with other people, so I try to do it as often as possible. He was a teacher of courses for students from our company. I speak at conferences, write reports and articles.
+He spoke at [TBD Pro Unity 2021](https://youtu.be/fSnYdlKqOpo), [Second 2021](https://youtu.be/TasWi76AGdg), [DevGAMM 2020](https://youtu.be/_VGobYAm6gA) conferences with various reports.
 
-Here are some ideas to get you started:
+Participated in a stream for developers from the K-Syndicate team, where they [discussed prototyping game projects](https://www.youtube.com/live/-a2b8sM-mZc?feature=share).
+    
+## My Technology
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Rider-E64415?style=for-the-badge&logo=Rider&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=C Sharp&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TeamCity-007AFF?style=for-the-badge&logo=TeamCity&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=BLENDER&logoColor=FFFFFF"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My contact's
+<a href="https://habr.com/ru/users/red-cat-fat/posts/"><img src="https://img.shields.io/badge/My posts in Habr-65A3BE?style=for-the-badge&logo=Habr&logoColor=FFFFFF"/></a>
+<a href="https://t.me/red_cat_fat"><img src="https://img.shields.io/badge/I'm in the telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"/></a>
