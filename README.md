@@ -2,8 +2,8 @@
 My name Andrey Boronnikov. I'm from Russia, work in My.Games and create games on Unity.
 
 Since childhood, I dreamed of making games. 
-I think the most important thing is the opportunity to share knowledge with other people, so I try to do it as often as possible. He was a teacher of courses for students from our company. I speak at conferences, write reports and articles.
-He spoke at [TBD Pro Unity 2021](https://youtu.be/fSnYdlKqOpo), [Second 2021](https://youtu.be/TasWi76AGdg), [DevGAMM 2020](https://youtu.be/_VGobYAm6gA) conferences with various reports.
+I think the most important thing is the opportunity to share knowledge with other people, so I try to do it as often as possible. I was a teacher of courses for students from our company. I speak at conferences, write reports and articles.
+I performed at [TBD Pro Unity 2021](https://youtu.be/fSnYdlKqOpo), [Second 2021](https://youtu.be/TasWi76AGdg), [DevGAMM 2020](https://youtu.be/_VGobYAm6gA) conferences with various reports.
 
 Participated in a stream for developers from the K-Syndicate team, where they [discussed prototyping game projects](https://www.youtube.com/live/-a2b8sM-mZc?feature=share).
 
