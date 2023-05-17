@@ -1,5 +1,5 @@
 ## About me
-My name Andrey Boronnikov. I'm from Russia, work in My.Games and create games on Unity.
+My name Andrey Boronnikov. I'm work in My.Games and create games on Unity.
 
 Since childhood, I dreamed of making games. 
 I think the most important thing is the opportunity to share knowledge with other people, so I try to do it as often as possible. I was a teacher of courses for students from our company. I speak at conferences, write reports and articles.
