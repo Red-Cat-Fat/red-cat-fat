@@ -15,4 +15,4 @@ Participated in a stream for developers from the K-Syndicate team, where they [d
 
 ## My contacts
 <a href="https://habr.com/ru/users/red-cat-fat/posts/"><img src="https://img.shields.io/badge/My posts in Habr-65A3BE?style=for-the-badge&logo=Habr&logoColor=FFFFFF"/></a>
-<a href="https://t.me/red_cat_fat"><img src="https://img.shields.io/badge/I'm in the telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"/></a>
+<a href="https://t.me/boronnikovgames"><img src="https://img.shields.io/badge/I'm in the telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"/></a>
